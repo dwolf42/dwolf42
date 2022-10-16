@@ -7,8 +7,7 @@ Mainly I follow a series of project driven Java tutorials on Hyperskill, the aca
 
 # GitHub Stats
 
-[![Kabraxis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabraxis&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Kabraxis' Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabraxis&layout=compact&hide=html,javascript,css,kotlin&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Kabraxis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabraxis&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Kabraxis' Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabraxis&layout=compact&hide=html,javascript,css,kotlin&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
