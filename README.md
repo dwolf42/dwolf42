@@ -1,6 +1,6 @@
-![Kabraxis' Prfile Views](https://komarev.com/ghpvc/?username=kabraxis&color=cb2790&style=plastic&label=Another+Visitor) stay a while... stay forever!
+[![Kabraxis' Prfile Views](https://komarev.com/ghpvc/?username=kabraxis&color=cb2790&style=plastic&label=Another+Visitor)] stay a while... stay forever!
 
-![](https://komarev.com/ghpvc/?kabraxis&color=cb2790&style=plastic&label=Another+Visitor)
+![](https://komarev.com/ghpvc/?username=Kabraxis&style=flat-square)
 
 I'm on a journey to become a software developer, who also loves writing small tutorials on his own.
 
