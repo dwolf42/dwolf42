@@ -1,5 +1,7 @@
 ![Kabraxis' Prfile Views](https://komarev.com/ghpvc/?username=kabraxis&color=cb2790&style=plastic&label=Another+Visitor) stay a while... stay forever!
 
+![](https://komarev.com/ghpvc/?kabraxis&color=cb2790&style=plastic&label=Another+Visitor)
+
 I'm on a journey to become a software developer, who also loves writing small tutorials on his own.
 
 Mainly I follow a series of project driven Java tutorials on Hyperskill, the academy platform of JetBrains. What I love the most about Hyperskill is that all courses are project driven. You work on something to get it finished and working by the end of the tutorial. Hyperskill also encourages their students to write their very own code and to do research on the internet in order to complete tasks.
