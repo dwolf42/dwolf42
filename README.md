@@ -1,4 +1,4 @@
-![Kabraxis' Prfile Views](https://komarev.com/ghpvc/?username=your-github-username&color=cb2790&style=plastic&label=Another+Visitor) stay a while... stay forever!
+[![Kabraxis' Prfile Views](https://komarev.com/ghpvc/?username=your-github-username&color=cb2790&style=plastic&label=Another+Visitor) stay a while... stay forever!
 
 I'm on a journey to become a software developer, who also loves writing small tutorials on his own.
 
