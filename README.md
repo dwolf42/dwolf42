@@ -14,7 +14,7 @@ My TicTacToe course version: [TicTacToe-EDU](https://github.com/dwolf42/TicTacTo
 To learn the underleying mechanics of such a program, the course version is kept rather simple. The game consists only of a frame, inside which the players take turns to enter their moves.
 As you may see on the screenshot, there are no indicators for to represent rows or columns.
 
-[The game board](https://imgur.com/edaoIQa)
+![The game board](https://github.com/dwolf42/dwolf42/blob/main/TicTacToeCourse.png)
 
 A proper introduction about to how to play the game is also missing. In addition to this, I really missed an easy way to share my game with friends without them or me having much of an effort.
 
