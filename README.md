@@ -1,4 +1,5 @@
-Hello, my name is David, I'm from Germany, and I'm happy to welcome you on my profile!
+Hello, my name is David.
+I'm from Germany, and I'm happy to welcome you on my profile!
 
 Since December 2019, I have been studying with extraordinary passion in Java at JetBrains Academy after work and in my spare time. Following the project-driven courses, I learn the language's basics and work towards a certificate.
 
@@ -13,7 +14,7 @@ My TicTacToe course version: [TicTacToe-EDU](https://github.com/dwolf42/TicTacTo
 To learn the underleying mechanics of such a program, the course version is kept rather simple. The game consists only of a frame, inside which the players take turns to enter their moves.
 As you may see on the screenshot, there are no indicators for to represent rows or columns.
 
-![The game board](https://drive.google.com/uc?export=view&id=1Frr3_jRWrSbRYWyvQeOOEAzlP2GuYbIb)
+[The game board](https://imgur.com/edaoIQa)
 
 A proper introduction about to how to play the game is also missing. In addition to this, I really missed an easy way to share my game with friends without them or me having much of an effort.
 
@@ -22,18 +23,18 @@ Right at the beginning of the "Simple TicTacToe" course, I wrote [TicTacToeSuper
 It was the basis on which I developed [TicTacToeSuperGT](https://github.com/dwolf42/TicTacToeSuperGT), which has the following features:
 
 Stand-alone version:
-TicTacToeSuperGT comes with an installer for Windows, which installs the game, including all the necessary Java files to be playable. This allowed my friends to play it regardless of the presence of a Java version on their PC. The icons of each the installer and the desktop shortcut, I designed myself. The installer also allows the user to choose an installation path, as well as it comes with an option to uninstall the game.
-You may try it our yourself [TicTacToeSuperGT releases v1.0](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!
+TicTacToeSuperGT comes with an installer for Windows, which installs the game. This includes all the necessary Java files to be playable, which allowed my friends to play it regardless of the presence of a Java version on their PC. For the icons of each the installer and the desktop shortcut, I made the design myself. Upon installation, the user nay choose a path for the game, as well as the installer comes with an option to uninstall.
+You may try it out yourself [TicTacToeSuperGT releases v1.0](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!
 
 ASCII Art:
-For more gameplay fun and a better user experience, I included appealing and dynamic ASCII Art content.
-In order to achieve this, I broke down the graphical content into 5 parts that come back together perfectly into an overall experience while the game is running. 
-> The parts are:
-> - The upper part of the castle, containing column indicators and the upper part of the knight: There are three dynamically changing graphics of this (see below).
+Gameplay experience and fun is super important in my opinion, so I included some appealing and dynamic ASCII Art in my game.
+I broke the graphical art down into 5 parts, which come back together perfectly to fit into the overall experience while the game is running. 
+> These parts are:
+> - The upper part of the castle, containing column indicators and the upper part of the knight: There are three dynamically changing graphics of part (see below).
 > - The left part of the castle, having row indicators.
 > - The playing field, consisting of a 3x3 array.
-> - The right part of the castle, with the middle part of the rider and his horse.
-> - The lower part of the castle, with the rest of the rider and his horse.
+> - The right part of the castle, containing also the middle part of the rider and his horse.
+> - The lower part of the castle, having the remaining part of the rider and his horse.
 
 
 Graphic 1: 
