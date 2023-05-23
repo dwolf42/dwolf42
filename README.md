@@ -1,4 +1,4 @@
-![Banner](link_to_your_banner_image)
+![Banner](https://github.com/dwolf42/dwolf42/blob/main/images/banners.PNG)
 
 # 👋 Hello, I'm David, and happy to have you visiting my profile!
 
