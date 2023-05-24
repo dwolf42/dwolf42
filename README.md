@@ -1,4 +1,6 @@
-![Banner](https://github.com/dwolf42/dwolf42/blob/main/images/banners.PNG)
+<p align="center">
+  <img src="https://github.com/dwolf42/dwolf42/blob/main/images/githubprofilebanner.png" />
+</p>
 
 # 👋 Hello, I'm David, and happy to have you visiting my profile!
 
