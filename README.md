@@ -2,7 +2,7 @@
   <img src="https://github.com/dwolf42/dwolf42/blob/main/images/githubprofilebanner.png" />
 </p>
 
-# 👋 Hello, I'm David, and happy to have you visiting my profile!
+# 👋 Hey there, I'm David! It's great to see you checking out my profile.
 
 Since December 2019, I have been passionately studying **Java** at JetBrains Academy in my spare time. My enthusiasm for IT led me to embark on a new path by undergoing vocational training as an IT specialist for application development.
 
