@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dwolf42/dwolf42/blob/main/images/githubprofilebanner.png" />
+  <img src="https://github.com/dwolf42/dwolf42/blob/main/images/githubprofilebanner.jpg" />
 </p>
 
 # 👋 Hey there, I'm David! It's great to see you checking out my profile.
