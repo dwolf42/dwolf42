@@ -11,7 +11,8 @@ Since December 2019, I have been passionately studying **Java** at JetBrains Aca
 ### Coffee Machine (OOP)
 
 My first experiences with self-crated classes, objects, enums, and packages in Java. It is also my latest achievement on my coding journey.
-Object orientation is a very exciting field in software development for me, to structure code much better than it is possible purely with methods. I'm really looking forward to diving further into this area and getting a better understanding of the many possibilities that objects offer. 
+Object orientation is a very exciting field in software development for me, to structure code much better than it is possible purely with methods. I'm really looking forward to diving further into this area and getting a better understanding of the many possibilities that objects offer.
+<br>
 You can check out the code [here](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage).
 
 ### TicTacToeSuperGT (non-OOP)
@@ -30,6 +31,7 @@ Discover [my tutorials](https://github.com/dwolf42/java-tutorials).
 ### Java Courses
 
 All of my active and completed JetBrains Academy projects, as well my side projects and experimentational things. All neatly arranged by topic in a single repository, so it is easier for me and others to look for examples on certain topics.
+<br>
 Enjoy exploring it [here](https://github.com/dwolf42/java_courses).
 
 
