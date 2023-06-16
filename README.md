@@ -4,7 +4,7 @@
 
 # 👋 Hey there, I'm David! It's great to see you checking out my profile.
 
-Since December 2019, I have been passionately studying **Java** at JetBrains Academy in my spare time. My enthusiasm for IT led me to embark on a new path by undergoing vocational training as an IT specialist for application development.
+Since December 2019, I have been passionately studying **Java** at JetBrains Academy in my spare time. My enthusiasm for IT led me to embark on a new path by planning to undergoing vocational training as an IT specialist for application development.
 
 ## 🚀 Projects
 
