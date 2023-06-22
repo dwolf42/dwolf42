@@ -15,7 +15,7 @@ Object orientation is a very exciting field in software development for me, to s
 <br>
 You can check out the code [here](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage).
 
-### TicTacToeSuperGT (non-OOP) 🎮
+### TicTacToeSuperGT (non-OOP) 🕹️
 
 This project incorporates all the knowledge I gained from the "Simple TicTacToe" course at JetBrains Academy on [Hyperskill.org](https://www.hyperskill.org). I expanded on the basic course version and created a stand-alone program with an installer for Windows, which also contains all required Java files. The game boasts several cool features like ASCII art, pause & clear screen feature, tutorial, winner/tie display, input safety, welcome screen, and credits. 
 Feel free to [try out my game](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!  
