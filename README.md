@@ -44,7 +44,7 @@ Enjoy exploring it [here](https://github.com/dwolf42/java_courses).
 
 ## 📈 GitHub Stats
 
-<img alt="dwolf24' GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=dwolf42&hide_title=false&theme=synthwave&show_icons=true&count_private=true&hide_border=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwolf42&theme=synthwave&hide=html,javascript,css,kotlin&hide_border=true)
+<img alt="dwolf24' GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=dwolf42&hide_title=false&theme=synthwave&show_icons=true&count_private=true&hide_border=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwolf42&theme=synthwave&hide=html,javascript,css,kotlin&hide_border=true)
 
 ![dwolf42's Profile Views](https://komarev.com/ghpvc/?username=dwolf42&color=cb2790&style=plastic&label=Viewers:)
 
