@@ -25,6 +25,7 @@ My code can be found [here](https://github.com/dwolf42/TicTacToeSuperGT).
 
 Bulls and Cows is my latest project, after which I will receive my certification about my knowledge in Java fundamentals.
 Here I write my own advanced version of this classic code breaking game by recreating the original version of it and take the game to a new level.
+
 Please see my code [click](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_bulls_and_cows)
 
 ### Java Tutorials 📚
