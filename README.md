@@ -21,6 +21,12 @@ This project incorporates all the knowledge I gained from the "Simple TicTacToe"
 Feel free to [try out my game](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!  
 My code can be found [here](https://github.com/dwolf42/TicTacToeSuperGT).
 
+### Bulls and Cows 🐮
+
+Bulls and Cows is my latest project, after which I will receive my certification about my knowledge in Java fundamentals.
+Here I write my own advanced version of this classic code breaking game by recreating the original version of it and take the game to a new level.
+Please see my code [click](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_bulls_and_cows)
+
 ### Java Tutorials 📚
 
 I really enjoy writing tutorials to explain how things work. One day, I found that it was easier for me to understand and remember complex ideas when I explained them to myself in simple tutorials. This is the basic idea on which I started my Java Tutorials project.
