@@ -34,9 +34,17 @@ All of my active and completed JetBrains Academy projects, as well my side proje
 <br>
 Enjoy exploring it [here](https://github.com/dwolf42/java_courses).
 
+## 💡 My Java knowledge map from JetBrains Academy Hyperskill 
+<details>
+<summary>
+<- click me
+</summary>
+ <img src="https://github.com/dwolf42/dwolf42/blob/main/images/java_knowledge_map.jpg" />
+</details>
 
 ## 📈 GitHub Stats
 
-<img alt="dwolf24' GitHub Stats" width="56%" src="https://github-readme-stats.vercel.app/api?username=dwolf42&hide_title=false&theme=synthwave&show_icons=true&count_private=true&hide_border=true"><img alt="dwolf42' Top_Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwolf42&layout=default&hide=html,javascript,css,kotlin&theme=synthwave&hide_border=false" width="40%">
+<img alt="dwolf24' GitHub Stats" width="39%" src="https://github-readme-stats.vercel.app/api?username=dwolf42&hide_title=false&theme=synthwave&show_icons=true&count_private=true&hide_border=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwolf42&theme=synthwave&hide=html,javascript,css,kotlin&hide_border=true)
 
 ![dwolf42's Profile Views](https://komarev.com/ghpvc/?username=dwolf42&color=cb2790&style=plastic&label=Viewers:)
+
