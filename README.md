@@ -4,13 +4,28 @@
 
 # 👋 Hey there, I'm David! It's great to see you checking out my profile.
 
-Since December 2019, I have been passionately studying **Java** at JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. My enthusiasm for IT led me to embark on a new path by planning to undergoing vocational training as an IT specialist for application development.<details><summary>read more</summary>
-When I first joined Hyperskill, I felt overwhelmed by the challenges. Often problems seemed impossible to solve with my limited knowledge. But I quickly learned that Hyperskill's approach was beneficial: it wasn't about hand-holding like other academies, but rather encouraging me to explore, research, and test different solutions independently. Which essentially means to come up with my very own ideas and code.
-
-Over time, I came to understand that being a software developer is all about problem-solving, regardless of the language or syntax being. It's about finding answers to tasks that initially seem impossible.
+Since December 2019, I have been passionately studying **Java** at JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. My enthusiasm for IT led me to embark on a new path by planning to undergoing vocational training as an IT specialist for application development.
+<details>
+  <summary>read more
+  </summary>
+When I first joined Hyperskill, I felt overwhelmed by the challenges. Often problems seemed impossible to solve with my limited knowledge.
+<br>
+But I quickly learned that Hyperskill's approach was beneficial: it wasn't about hand-holding like other academies, but rather encouraging me to explore, research, and test different solutions independently.
+<br>
+Which essentially means to come up with my very own ideas of code.
+<br>
+<br>
+Over time, I came to understand that being a software developer is all about problem-solving, regardless of the language or syntax being.
+<br>
+It's about finding answers to tasks that initially seem impossible.
+<br>
 Although I felt overwhelmed at first, I saw significant improvements in my coding and problem-solving skills throughout the process. And I achieved all this with only little prior knowledge.
+<br>
+<br>
 It's not just about getting the answer right. The satisfaction and joy of the "Eureka" moment when I finally solve a problem on my own is something I wouldn't want to miss in my life anymore.
-That's why I stuck with Hyperskill, trading a quick progression through the fundamentals and quickly reaching an advanced level for what I believe is a deeper understanding of the concepts.>
+<br>
+<br>
+That's why I stuck with Hyperskill, trading a quick progression through the fundamentals and quickly reaching an advanced level for what I believe is a deeper understanding of the concepts.
 </details>
 
 
