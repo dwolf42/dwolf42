@@ -31,27 +31,27 @@ That's why I stuck with Hyperskill, trading a quick progression through the fund
 
 ## 🚀 Projects
 
-### TicTacToeSuperGT 🕹️ (non-OOP, completed)
+### [TicTacToeSuperGT 🕹️ (non-OOP, completed)](https://github.com/dwolf42/TicTacToeSuperGT)
 
 This project incorporates all the knowledge I gained from the "Simple TicTacToe" course at JetBrains Academy on [Hyperskill.org](https://www.hyperskill.org). I expanded on the basic course version and created a stand-alone program with an installer for Windows, which also contains all required Java files. The game boasts several cool features like ASCII art, pause & clear screen feature, tutorial, winner/tie display, input safety, welcome screen, and credits. 
 Feel free to [play my game](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!  
 Dive into the source [here](https://github.com/dwolf42/TicTacToeSuperGT).
 
-### Java Tutorials 📚
+### [Java Tutorials 📚](https://github.com/dwolf42/java-tutorials)
 
 I really enjoy writing tutorials to explain how things work. One day, I found that it was easier for me to understand and remember complex ideas when I explained them to myself in simple tutorials. This is the basic idea on which I started my Java Tutorials project.
 With a very pictorial language and many comparisons, I describe for example the basic principles behind a nested for-loop, how I remember the difference between Stack and Heap memory, or my understanding of how return value methods work.
 I also wrote a guide on how to turn Java code into an .exe file that can run on Windows. This guide includes how to create an installer, which ships all the needed Java files. As a bonus, I show how to make custom icons for the installer and the .exe file, so they have a really personal touch.<br>
 Discover all of [my tutorials](https://github.com/dwolf42/java-tutorials).
 
-### Java Courses 👨‍🏫
+### [Java Courses 👨‍🏫](https://github.com/dwolf42/java_courses)
 
 All of my active and completed JetBrains Academy projects, as well as my side projects and experimentational work.
 Everything is neatly arranged by topic in a single repository, so it is easier to bowse for certain topics.
 <br>
 Enjoy exploring it [here](https://github.com/dwolf42/java_courses).
 
-### RPG 🧙 (OOP, in development)
+### [RPG 🧙 (OOP, in development)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/off_course_projects/rpg)
 
 A project completely off-course. Nothing I can relate on.
 I started this project to improve my OOP skills by developing something I have a deep connection to and a lot of passion for.
@@ -59,14 +59,14 @@ RPGs have always fascinated me. I like to discover new things and foreign worlds
 That's my current plan for the project, and I'm really looking forward to shape and expand the RPG.<br>
 Have a [look](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/off_course_projects/rpg).
 
-### Coffee Machine ☕ (OOP, completed) 
+### [Coffee Machine ☕ (OOP, completed)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage)
 
 My first experiences with self-crated classes, objects, enums, and packages in Java. It is also my latest achievement on my coding journey.
 Object orientation is a very exciting field in software development for me, to structure code much better than it is possible purely with methods. I'm really looking forward to dive further into this area and getting a better understanding of the countless possibilities object-oriented programming offers.
 <br>
 You can check out the code [here](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage).
 
-### Bulls and Cows 🐮 (currently non-OOP, in development) 
+### [Bulls and Cows 🐮 (currently non-OOP, in development)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_bulls_and_cows)
 
 Bulls and Cows is the latest course project I started, after which I will receive my certification about my knowledge in Java fundamentals.
 Here I write my own advanced version of this classic code breaking game by recreating the original version of it and take the game to a new level.<br>
