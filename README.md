@@ -4,28 +4,29 @@
 
 # 👋 Hey there, I'm David! It's great to see you checking out my profile.
 
-Since December 2019, I have been passionately studying **Java** at the JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. My enthusiasm for IT led me to embark on a new career path by planning to undergo a vocational training as an IT specialist for application development.
+Since December 2019, I have been passionately studying **Java** at the JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. I am passionate about IT and plan to pursue a career as an IT specialist for application development through vocational training.
+
 <details>
   <summary>read more
   </summary>
-When I first joined Hyperskill, I felt overwhelmed by the challenges. Often problems seemed impossible to solve with my limited knowledge.
+When I first joined Hyperskill, I felt overwhelmed by the challenges. Problems often seemed impossible to solve with my limited knowledge.
 <br>
-But I quickly learned that Hyperskill's approach was beneficial: it wasn't about hand-holding like other academies, but rather encouraging me to explore, research, and test different solutions independently.
+However, I quickly learned that Hyperskill's approach was beneficial. They encouraged me to explore, research, and test different solutions independently instead of hand-holding like other academies.
 <br>
 Which essentially means to come up with my very own ideas of code.
 <br>
 <br>
-Over time, I came to understand that being a software developer is all about problem-solving, regardless of the language or syntax being.
+Over time, I came to understand that being a software developer is all about problem-solving, regardless of the language or syntax.
 <br>
 It's about finding answers to tasks that initially seem impossible.
 <br>
-Although I felt overwhelmed at first, I saw significant improvements in my coding and problem-solving skills throughout the process. And I achieved all this with only little prior knowledge.
+Since then, I made significant improvements in my coding and problem-solving skills throughout the process. I achieved this with only little prior knowledge.
 <br>
 <br>
-Code to me is not just about getting the answer right. The satisfaction and joy of the "Eureka" moment when I finally solve a problem on my own is something I wouldn't want to miss in my life anymore.
+Coding to me is not just about getting the answer right. The satisfaction and joy of the "Eureka" moment when I finally solve a problem on my own is something I wouldn't want to miss in my life anymore.
 <br>
 <br>
-That's why I stuck with Hyperskill, trading a quick progression through the fundamentals and quickly reaching an advanced level for what I believe is a deeper understanding of the concepts.
+That's why I chose to stick with Hyperskill. I traded quick progression through the fundamentals for a deeper understanding of the concepts, which I believe is more valuable.
 </details>
 
 
@@ -33,43 +34,43 @@ That's why I stuck with Hyperskill, trading a quick progression through the fund
 
 ### [TicTacToeSuperGT 🕹️ (non-OOP, completed)](https://github.com/dwolf42/TicTacToeSuperGT)
 
-This project incorporates all the knowledge I gained from the "Simple TicTacToe" course at JetBrains Academy on [Hyperskill.org](https://www.hyperskill.org). I expanded on the basic course version and created a stand-alone program with an installer for Windows, which also contains all required Java files. The game boasts several cool features like ASCII art, pause & clear screen feature, tutorial, winner/tie display, input safety, welcome screen, and credits. 
+I used the knowledge gained from the 'Simple TicTacToe' course at JetBrains Academy on [Hyperskill.org](https://www.hyperskill.org) to create a standalone program for Windows. The program includes all required Java files and features ASCII art, a pause and clear screen function, a tutorial, a winner/tie display, input safety, a welcome screen, and credits. 
 Feel free to [play my game](https://github.com/dwolf42/TicTacToeSuperGT/releases/tag/v1.0)!  
 Dive into the source [here](https://github.com/dwolf42/TicTacToeSuperGT).
 
 ### [Java Tutorials 📚](https://github.com/dwolf42/java-tutorials)
 
-I really enjoy writing tutorials to explain how things work. One day, I found that it was easier for me to understand and remember complex ideas when I explained them to myself in simple tutorials. This is the basic idea on which I started my Java Tutorials project.
-With a very pictorial language and many comparisons, I describe for example the basic principles behind a nested for-loop, how I remember the difference between Stack and Heap memory, or my understanding of how return value methods work.
-I also wrote a guide on how to turn Java code into an .exe file that can run on Windows. This guide includes how to create an installer, which ships all the needed Java files. As a bonus, I show how to make custom icons for the installer and the .exe file, so they have a really personal touch.<br>
+I enjoy writing tutorials that explain how things work.  I started my Java Tutorials project based on the idea that it's easier to understand and remember complex ideas when explained in simple tutorials.
+I use simple language to explain basic programming concepts, such as nested for-loops, Stack and Heap memory, and return value methods.
+Additionally, I provide a guide on how to create an .exe file for Windows, including instructions on creating an installer that includes all necessary Java files. As a bonus, I will demonstrate how to create custom icons for the installer and the .exe file, giving them a personal touch.<br>
 Discover all of [my tutorials](https://github.com/dwolf42/java-tutorials).
 
 ### [Java Courses 👨‍🏫](https://github.com/dwolf42/java_courses)
 
-All of my active and completed JetBrains Academy projects, as well as my side projects and experimentational work.
-Everything is neatly arranged by topic in a single repository, so it is easier to bowse for certain topics.
+All of my completed and ongoing projects from JetBrains Academy, as well as my side projects and experimental work, are neatly organized by topic in a single repository.
+This makes it easier to browse for specific topics.
 <br>
 Enjoy exploring it [here](https://github.com/dwolf42/java_courses).
 
 ### [RPG 🧙 (OOP, in development)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/off_course_projects/rpg)
 
-A project completely off-course. Nothing I can relate on.
+A project completely off course. Nothing I can relate to.
 I started this project to improve my OOP skills by developing something I have a deep connection to and a lot of passion for.
-RPGs have always fascinated me. I like to discover new things and foreign worlds, with a bag full of healing potions and a sword, kicking the crap out of dragons, zombies and bats, going on adventures, gaining experience and picking up a golden coin or two along the way.
-That's my current plan for the project, and I'm really looking forward to shape and expand the RPG.<br>
+RPGs have always fascinated me. I like discovering new things and foreign worlds, with a bag full of healing potions and a sword, kicking the crap out of dragons, zombies and bats, going on adventures, gaining experience and picking up a golden coin or two along the way.
+That's my current plan for the project, and I'm really looking forward to shaping and expanding the RPG.<br>
 Have a [look](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/off_course_projects/rpg).
 
 ### [Coffee Machine ☕ (OOP, completed)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage)
 
-My first experiences with self-crated classes, objects, enums, and packages in Java. It is also my latest achievement on my coding journey.
-Object orientation is a very exciting field in software development for me, to structure code much better than it is possible purely with methods. I'm really looking forward to dive further into this area and getting a better understanding of the countless possibilities object-oriented programming offers.
+My first experience with self-created classes, objects, enums and packages in Java. It is also my latest achievement on my coding journey.
+Object orientation is a very exciting area of software development for me, to structure code much better than it is possible with pure methods. I'm really looking forward to diving further into this area and getting a better understanding of the countless possibilities that object-oriented programming offers.
 <br>
 You can check out the code [here](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_coffee_machine/final_stage).
 
 ### [Bulls and Cows 🐮 (currently non-OOP, in development)](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_bulls_and_cows)
 
-Bulls and Cows is the latest course project I started, after which I will receive my certification about my knowledge in Java fundamentals.
-Here I write my own advanced version of this classic code breaking game by recreating the original version of it and take the game to a new level.<br>
+Bulls and Cows is the last course project I started to get my certification in Java basics.
+Here I am writing my own advanced version of this classic code-breaking game by recreating the original version and taking the game to a new level.<br>
 Curious? [Click me](https://github.com/dwolf42/java_courses/tree/master/src/dwolf/project_bulls_and_cows).
 
 ## 💡 My Java knowledge map from JetBrains Academy Hyperskill 
