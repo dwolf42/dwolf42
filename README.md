@@ -4,7 +4,10 @@
 
 # 👋 Hey there, I'm David! It's great to see you checking out my profile.
 
-Since December 2019, I have been passionately studying **Java** at the JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. I am passionate about IT and plan to pursue a career as an IT specialist for application development through vocational training.
+Since December 2019, I have been passionately studying **Java** at the JetBrains Academy [Hyperskill.org](https://hyperskill.org) in my spare time. I am passionate about IT and started to pursue my career as an IT specialist for application development through vocational training in September 2023.
+
+Checkout my 2023 Hyperskill coding recap 🚀
+https://hyperskill.org/wrapped/year-2023/2375388?utm_source=wrapped_hs
 
 <details>
   <summary>read more
