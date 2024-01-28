@@ -8,7 +8,7 @@ Since December 2019, I have been passionately studying **Java** at the JetBrains
 
 Checkout my 2023 Hyperskill coding recap 🚀
   
-[![Hyperskill Recap 2023](https://github.com/dwolf42/dwolf42/blob/main/images/IMG_6131.jpeg)](https://hyperskill.org/wrapped/year-2023/2375388?utm_source=wrapped_hs)
+[![Hyperskill Recap 2023](https://github.com/dwolf42/dwolf42/blob/main/images/hyperskill-recap-2023.png)](https://hyperskill.org/wrapped/year-2023/2375388?utm_source=wrapped_hs)
 
 <details>
   <summary>read more
